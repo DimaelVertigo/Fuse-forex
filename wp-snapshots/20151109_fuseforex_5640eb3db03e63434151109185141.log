@@ -1,0 +1,76 @@
+********************************************************************************
+PACKAGE-LOG: 2015-11-09 18:51:54
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.34
+WORDPRESS:	4.3.1
+PHP INFO:	5.6.10 | SAPI: apache2handler
+SERVER:		Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zg DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 17.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:12 | filtered:0 | create:12 
+FILTERED: [] 
+SQL CREATED: 20151109_fuseforex_5640eb3db03e63434151109185141_database.sql 
+file size:481980 
+SQL FILE SIZE: 470.68KB 
+SQL FILE TIME: 2015-11-09 18:51:54 
+SQL RUNTIME: 0.05 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Applications/MAMP/htdocs/wordpress.local/fuse-forex 
+ARCHIVE FILE: 20151109_fuseforex_5640eb3db03e63434151109185141_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	66.99MB 
+STATS:	Dirs 2,923 | Files 10,584 
+SQL ADDED: 20151109_fuseforex_5640eb3db03e63434151109185141_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 13507
+    [filename] => /Applications/MAMP/htdocs/wordpress.local/fuse-forex/wp-snapshots/tmp/20151109_fuseforex_5640eb3db03e63434151109185141_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 31.78MB 
+ARCHIVE RUNTIME: 28.70 sec. 
+MEMORY STACK: 24.75MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Applications/MAMP/htdocs/wordpress.local/fuse-forex/wp-snapshots/tmp/20151109_fuseforex_5640eb3db03e63434151109185141_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 470.68KB 
+Installer File: 318.02KB 
+Archive File: 31.78MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 30.21 sec.
+PEAK PHP MEMORY USED: 30MB
+DONE PROCESSING => 20151109_fuseforex 2015-11-09 18:52:25
+ 

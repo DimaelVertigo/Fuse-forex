@@ -1,0 +1,85 @@
+/*==============================
+=            FOOTER            =
+==============================*/
+.site-footer {
+	padding: 80px 0 64px;
+	width: 100%;
+	background-color: #212939;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	&__follow-text {
+		color: @yellow;
+		font: 16px 'Open Sans';
+		text-transform: uppercase;
+		letter-spacing: 5px;
+	}
+	&__logo {
+		margin-top: 30px;
+		display: block;
+		text-decoration: none;
+		position: relative;
+		.retina-sprite(@twitter-group);
+	}
+	&__counter {
+		position: absolute;
+		top: 35px;
+		left: 50%;
+		color: @yellow;
+		font: 600 16px 'Open Sans';
+	}
+	&__company {
+		letter-spacing: 1px;
+		margin-top: 50px;
+		color: #aeb2bc;
+		font: 35px/44px 'Georgia';
+	}
+	&__text {
+		margin-top: 5px;
+		color: #aeb2bc;
+		font: 10px/28px 'Open Sans';
+		text-transform: uppercase;
+		letter-spacing: 2px;
+	}
+	&__copyright {
+		margin-top: 20px;
+		color: #686e7b;
+		font: 12px/24px 'Open Sans';
+	}
+}
+.post-footer {
+	padding: 50px 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: #212a39;
+	&__follow-text {
+		color: #aeb2bc;
+		letter-spacing: 5px;
+		font: 16px 'Open Sans';
+		text-transform: uppercase;
+	}
+	&__logo {
+		margin-top: 30px;
+		display: block;
+		text-decoration: none;
+		position: relative;
+		.retina-sprite(@twitter2-group);
+	}
+	&__counter {
+		position: absolute;
+		top: 35px;
+		left: 50%;
+		color: #1499f3;
+		font: 600 16px 'Open Sans';
+	}
+	&__copyright {
+		margin-top: 20px;
+		color: #686e7b;
+		font: 12px/24px 'Open Sans';
+	}
+}
+/*-----  End of FOOTER  ------*/
+
